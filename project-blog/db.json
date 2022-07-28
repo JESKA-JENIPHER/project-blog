@@ -1,0 +1,28 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "title": "Dustless Blasting Blog",
+      "body": "Dustless Blasting uses their blog to promote their product, the Dustless Blasting machine. They share real stories and write about common situations in which their target audience may find themselves in need of the product. They create guides and instructional pieces (as well as instructional videos) to teach customers how to use the machine.",
+      "aurthor": "T Y Alevizos"
+    },
+    {
+      "id": 2,
+      "title": "M.M. LaFleur Blog",
+      "body": "Women who work in virtually any industry can read the blog to feel inspired by other businesswomen as well as learn about different aspects of being a woman in the workplace (gender equality, stereotypes, etc.). Lastly, there are blog posts related to attire including topics about what to wear on your first day, casual Fridays, and to job",
+      "author": "Becky babe"
+    },
+    {
+      "id": 3,
+      "title": " Dotloop Blog",
+      "body": "The real estate education the blog provides readers with is expert-level. This allows visitors to leave the site feeling confident in their new or improved knowledge.",
+      "author": "Lauren Smith"
+    },
+    {
+      "id": 4,
+      "title": " Realy Real",
+      "body": "The real estate education the blog provides readers with is expert-level. This allows visitors to leave the site feeling confident in their new or improved knowledge.",
+      "author": "Mark White"
+    }
+  ]
+}
